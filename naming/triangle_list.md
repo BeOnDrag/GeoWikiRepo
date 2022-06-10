@@ -2,7 +2,7 @@
 title: Triangle Name List
 description: A list of basic names of points and lines.
 published: true
-date: 2022-06-10T07:40:26.628Z
+date: 2022-06-10T15:59:56.081Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-09T12:18:52.523Z
@@ -40,6 +40,7 @@ In triangle $ABC$:
 - $c_A=D_BD_C$
 - $d_A$ the angular bisector of $\angle A$.
 - $e_A=E_BE_C$
+- $\mathfrak{Eu}$ the Euler line.
 - $g_A$ the median $M_BM_C$.
 - $h_A$ the altitude.
 - $m_A$ the median $AM_A$.
@@ -54,6 +55,12 @@ In triangle $ABC$:
 - $\odot O$ the circumcircle.
 - $\odot O_A$ the "mixtilinear circumcircle"; the circle that passes through $B$, $C$ and tangent to $\odot I$.
 - $\odot P$ the circumcircle of $\triangle I_AI_BI_C$.
+
+## Triangles (Alphabetical Order)
+- $\triangle\mathcal H=\triangle H_AH_BH_C$
+- $\triangle\mathcal I=\triangle D_AD_BD_C$
+- $\triangle\mathcal J=\triangle I_AI_BI_C$
+- $\triangle\mathcal M=\triangle M_AM_BM_C$
 
 ## Values (Alphabetical Order)
 - $\mathbf R$ the radius of $\odot O$.
