@@ -2,7 +2,7 @@
 title: Properties Involving Ex- and Incenter and Relative Things
 description: 
 published: true
-date: 2022-06-10T23:46:44.946Z
+date: 2022-06-10T23:47:01.314Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-09T14:47:42.724Z
@@ -28,7 +28,6 @@ These are basic properties that is directly related to the objects; no (or only 
 ### Misc.
 - $BC$, $e_A$ and $t_A$ are concurrent.
 - $D_AK_A$ passes through the point of tangency of $\odot O_A$ and $\odot I$.
-- $\angle AIH=90^\circ\implies\angle IH'_AN_A=90^\circ$.
 - $T_AI\cap AO\in\odot O$; i.e. the intersection of $TA_I$ and $\odot O$ is the antipode of $A$.
 
 ## Properties with Furthur Constructions
