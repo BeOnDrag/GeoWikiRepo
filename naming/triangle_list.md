@@ -2,7 +2,7 @@
 title: Triangle Name List
 description: A list of basic names of points and lines.
 published: true
-date: 2022-06-10T15:59:56.081Z
+date: 2022-06-10T16:04:04.934Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-09T12:18:52.523Z
@@ -57,10 +57,15 @@ In triangle $ABC$:
 - $\odot P$ the circumcircle of $\triangle I_AI_BI_C$.
 
 ## Triangles (Alphabetical Order)
+For triangle $\triangle\mathcal T$, $\odot\mathcal T$ is the circumcircle of it.
+- $\triangle\mathcal A=\triangle ABC$
 - $\triangle\mathcal H=\triangle H_AH_BH_C$
 - $\triangle\mathcal I=\triangle D_AD_BD_C$
 - $\triangle\mathcal J=\triangle I_AI_BI_C$
+- $\triangle\mathcal J_A=\triangle II_BI_C$
 - $\triangle\mathcal M=\triangle M_AM_BM_C$
+- $\triangle\mathcal M_A=\triangle AM_BM_C$
+- $\triangle\mathcal N=\triangle N_AN_BN_C$
 
 ## Values (Alphabetical Order)
 - $\mathbf R$ the radius of $\odot O$.
