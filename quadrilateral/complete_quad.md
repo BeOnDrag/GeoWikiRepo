@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-11T08:22:23.053Z
+date: 2022-06-11T08:56:31.525Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -32,10 +32,12 @@ If $ABCD$ is circular, call this complete quadrilateral *head-circular*.
 
 For head-circular complete quadrilateral $ABCDEF$ with $\omega=\odot ABCD$:
 
-- Suppose $M$ is the midpoint of $AC$, $N$ is the midpoint of $BD$ and $L$ is the midpoint of $EF$. Then
-  - $\displaystyle{\frac{BD}{AC}=\frac{NE}{NM}=\frac{NL}{NE}}$
-  - $\displaystyle{\frac{AC}{BD}-\frac{BD}{AC}=\frac{2ML}{EF}}$
-  - $\odot AML$, $\odot FCE$, $\omega$ and $AN$ are concurrent.
+Suppose $M$ is the midpoint of $AC$, $N$ is the midpoint of $BD$ and $L$ is the midpoint of $EF$. Then
+- $\displaystyle{\frac{BD}{AC}=\frac{LE}{LM}=\frac{LN}{LE}}$
+- $\displaystyle{\frac{AC}{BD}-\frac{BD}{AC}=\frac{2MN}{EF}}$
+- $\odot AMN$, $\odot FCE$, $\omega$ and $AL$ are concurrent.
+- $EF\cap BD$, $EF\cap AC$, $M$ and $N$ are circular.
+- The power of $L$ w.r.t. $\omega$ equals to $LE^2$.
 
 ### In- and Excircles
 If $\triangle AEC$ and $\triangle AFB$ has an common incircle, we say this circle is an *incircle* of $\mathcal Q$.
