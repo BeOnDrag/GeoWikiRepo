@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-11T08:56:31.525Z
+date: 2022-06-11T09:10:46.625Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -27,10 +27,16 @@ For foot-circular complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$:
 
 - The pole of $BD$ w.r.t. $\Omega$ and the pole of $EF$ w.r.t. $\Omega$ both fall on $AC$.
 
-### Head-Circular Complete Quadrilaterals
+### $\star$ Head-Circular Complete Quadrilaterals
 If $ABCD$ is circular, call this complete quadrilateral *head-circular*.
 
-For head-circular complete quadrilateral $ABCDEF$ with $\omega=\odot ABCD$:
+For head-circular complete quadrilateral $\mathcal Q=ABCDEF$ with $\omega=\odot ABCD$ and $AC\cap BD=P$:
+
+Suppose $O$ is the center of $\omega$.
+- The pole of $P$ w.r.t. $\omega$ is $EF$; the pole of $E$ w.r.t. $\omega$ is $FP$; the pole of $F$ w.r.t. $\omega$ is $EP$.
+- $O$ is the orthocenter of $\triangle EFP$.
+- The projection of $O$ on $EF$ is the Miquel point $K$ of $\mathcal Q$.
+- $AOCK$ is circular; $BODK$ is circular.
 
 Suppose $M$ is the midpoint of $AC$, $N$ is the midpoint of $BD$ and $L$ is the midpoint of $EF$. Then
 - $\displaystyle{\frac{BD}{AC}=\frac{LE}{LM}=\frac{LN}{LE}}$
