@@ -1,14 +1,14 @@
 ---
-title: Properties Involving Ex- and Incenter and Relative Things
+title: Properties Involving In- and Excenter and Relative Things
 description: 
 published: true
-date: 2022-06-10T23:47:01.314Z
+date: 2022-06-11T06:45:26.838Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-09T14:47:42.724Z
 ---
 
-# Properties Involving Ex- and Incenter and Relative Things
+# Properties Involving In- and Excenter and Relative Things
 
 This page will contain properties involving $I$, $I_A$, $D_A$, $E_A$, $c_A$, $d_A$, $e_A$ or other relative things.
 
