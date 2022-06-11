@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-11T02:07:16.794Z
+date: 2022-06-11T02:09:54.796Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -13,8 +13,9 @@ Let $\mathcal Q=ABCDEF$ be a complete quadrilateral such that $E=AB\cap CD$, $F=
 
 ## Shared Properties
 - The midpoints of three diagonals $AC$, $BD$ and $EF$ are collinear; the line is called the *Newton line*, and will be denoted by $m_\mathcal Q$.
-- The orthocenters of four triangles $AED$, $AFB$, $BEC$, $DFC$ are collinear; the line is called the *Gauss-Bodenmiller line*, and will be denoted by $h_\mathcal Q$.
-- $h_\mathcal Q\perp m_\mathcal Q$.
+- The orthocenters of *the four triangles* $AED$, $AFB$, $BEC$, $DFC$ are collinear; the line is called the *Gauss-Bodenmiller line*, and will be denoted by $h_\mathcal Q$.
+  - $h_\mathcal Q\perp m_\mathcal Q$.
+- The circumcircle of the four triangles are concurrent; the point is called the *Miquel point*.
 
 ## Special Properties
 
