@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-11T08:05:25.594Z
+date: 2022-06-11T08:22:23.053Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -17,9 +17,6 @@ Let $\mathcal Q=ABCDEF$ be a complete quadrilateral such that $E=AB\cap CD$, $F=
   - $h_\mathcal Q\perp m_\mathcal Q$.
 - The circumcircle of the four triangles are concurrent; the point is called the *Miquel point*.
 - Suppose $X$ is a point such that $\angle EXB=\angle FXD$, then $\angle BXC=\angle DXA$.
-- Suppose $M$ is the midpoint of $AC$, $N$ is the midpoint of $BD$ and $L$ is the midpoint of $EF$. Then
- - $\displaystyle{\frac{BD}{AC}=\frac{NE}{NM}=\frac{NL}{NE}}$
- - $\displaystyle{\frac{AC}{BD}-\frac{BD}{AC}=\frac{2ML}{EF}}$
 
 ## Special Properties
 
@@ -29,6 +26,16 @@ If $BEFD$ is circular, call this complete quadrilateral *foot-circular*.
 For foot-circular complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$:
 
 - The pole of $BD$ w.r.t. $\Omega$ and the pole of $EF$ w.r.t. $\Omega$ both fall on $AC$.
+
+### Head-Circular Complete Quadrilaterals
+If $ABCD$ is circular, call this complete quadrilateral *head-circular*.
+
+For head-circular complete quadrilateral $ABCDEF$ with $\omega=\odot ABCD$:
+
+- Suppose $M$ is the midpoint of $AC$, $N$ is the midpoint of $BD$ and $L$ is the midpoint of $EF$. Then
+  - $\displaystyle{\frac{BD}{AC}=\frac{NE}{NM}=\frac{NL}{NE}}$
+  - $\displaystyle{\frac{AC}{BD}-\frac{BD}{AC}=\frac{2ML}{EF}}$
+  - $\odot AML$, $\odot FCE$, $\omega$ and $AN$ are concurrent.
 
 ### In- and Excircles
 If $\triangle AEC$ and $\triangle AFB$ has an common incircle, we say this circle is an *incircle* of $\mathcal Q$.
