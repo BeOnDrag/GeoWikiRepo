@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-11T02:09:54.796Z
+date: 2022-06-11T08:05:25.594Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -16,6 +16,10 @@ Let $\mathcal Q=ABCDEF$ be a complete quadrilateral such that $E=AB\cap CD$, $F=
 - The orthocenters of *the four triangles* $AED$, $AFB$, $BEC$, $DFC$ are collinear; the line is called the *Gauss-Bodenmiller line*, and will be denoted by $h_\mathcal Q$.
   - $h_\mathcal Q\perp m_\mathcal Q$.
 - The circumcircle of the four triangles are concurrent; the point is called the *Miquel point*.
+- Suppose $X$ is a point such that $\angle EXB=\angle FXD$, then $\angle BXC=\angle DXA$.
+- Suppose $M$ is the midpoint of $AC$, $N$ is the midpoint of $BD$ and $L$ is the midpoint of $EF$. Then
+ - $\displaystyle{\frac{BD}{AC}=\frac{NE}{NM}=\frac{NL}{NE}}$
+ - $\displaystyle{\frac{AC}{BD}-\frac{BD}{AC}=\frac{2ML}{EF}}$
 
 ## Special Properties
 
@@ -26,8 +30,12 @@ For foot-circular complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$:
 
 - The pole of $BD$ w.r.t. $\Omega$ and the pole of $EF$ w.r.t. $\Omega$ both fall on $AC$.
 
-### Incircles
-If $ABCD$ has an incircle, we say this complete quadrilateral is *of class 1*.
+### In- and Excircles
+If $\triangle AEC$ and $\triangle AFB$ has an common incircle, we say this circle is an *incircle* of $\mathcal Q$.
 
-- **Class 1, Method 1.** For any three points $\{X,Y,Z\}\subset\{A,B,C,D,E,F\}$, if $\triangle XYZ$ is not $\triangle AED$, $\triangle AFB$, $\triangle BEC$ or $\triangle DFC$ (i.e. not a triangle of the original $\mathcal Q$), then
-$$\mathcal Q\text{ has an incircle of class 1}\\\iff\\\text{the angle bisector of }\angle X,\angle Y,\angle Z\text{ are concurrent.}$$
+- For any three points $\{X,Y,Z\}\subset\{A,B,C,D,E,F\}$, if $\triangle XYZ$ is not $\triangle AED$, $\triangle AFB$, $\triangle BEC$ or $\triangle DFC$ (i.e. not a triangle of the original $\mathcal Q$), then $\mathcal Q$ has an incircle $\iff$ the angle bisector of $\angle X$, $\angle Y$ and $\angle Z$ are concurrent.
+- $\star$ $\mathcal Q$ has an incircle $\iff AB+CD=BC+DA\iff BE+BF=DE+DF\iff AE+CF=AF+CE$.
+
+If $\triangle AEC$ and $\triangle AFB$ has an common $A$-excircle, we say this circle is an *excircle* of $\mathcal Q$.
+
+- $\mathcal Q$ has an excircle $\iff AB+BC=CD+DA\iff AE+EC=AF+FC\iff BE+ED=BF+FD$.
