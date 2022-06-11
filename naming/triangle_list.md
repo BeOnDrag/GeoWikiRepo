@@ -2,7 +2,7 @@
 title: Triangle Name List
 description: A list of basic names of points and lines.
 published: true
-date: 2022-06-10T16:04:04.934Z
+date: 2022-06-11T05:01:51.315Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-09T12:18:52.523Z
@@ -43,6 +43,7 @@ In triangle $ABC$:
 - $\mathfrak{Eu}$ the Euler line.
 - $g_A$ the median $M_BM_C$.
 - $h_A$ the altitude.
+- $k_A=H_BH_C$
 - $m_A$ the median $AM_A$.
 - $n_A=AL_A$
 - $t_A$ the tangent line of $\odot O$ through $A$.
