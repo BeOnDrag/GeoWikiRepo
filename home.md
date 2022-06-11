@@ -2,7 +2,7 @@
 title: Welcome!
 description: Welcome page / Home page
 published: true
-date: 2022-06-10T14:55:59.217Z
+date: 2022-06-11T06:44:18.897Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-08T07:40:55.328Z
@@ -21,3 +21,8 @@ Then we assume $M_B$ is the midpoint of edge $AC$, $M_C$ is the midpoint of edge
 > $m_A$ is the median of $A$.
 
 Then $m_B$, $m_C$ are also defined. A list of namings can be found [here](/naming/triangle_list). Notice that every point that doesn't appear in this list (e.g. $X_A$, $Y_A$, $Z_A$. These 3 names are actually reserved) is default to the local definition.
+
+Also notice that, if we consider multiple triangles at one time, a subscript that indicates the triangle will be added: so $m_A=m_{\triangle ABC,A}$ and $P=O_{\mathcal J}$. If no subscript is present it is default to $\triangle\mathcal A=\triangle ABC$. For a list of triangles also see the name list.
+
+### Fonts
+Usually all objects will be named in `\mathnormal` font; for objects with name more than 1 letters, upright font `\mathrm` will be used for points and circles, `\mathfrak` will be used for lines; values are always in `\mathbf`; triangles are always in `\mathcal`.
