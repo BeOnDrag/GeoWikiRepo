@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-12T01:22:45.602Z
+date: 2022-06-12T02:56:59.891Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -25,21 +25,23 @@ If $BEFD$ is circular, call this complete quadrilateral *foot-circular*.
 
 For foot-circular complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$, $O$ the center of $\Omega$ and $K$ the Miquel point of $\mathcal Q$:
 
-- The pole of $BD$ w.r.t. $\Omega$ and the pole of $EF$ w.r.t. $\Omega$ both fall on $AC$.
-- $BDOK$ is circular.
+- The pole of $BD$ and the pole of $EF$ w.r.t. $\Omega$ both fall on $AC$.
+- $\star$ $BDOK$ is circular.
 - $KC$ bisects $\angle BKD$ and $\angle EKF$.
-- $A$, $C$, $K$ are collinear; $\angle OKD=90^\circ$.
+- $\star$ $A$, $C$, $K$ are collinear; $\angle OKC=90^\circ$.
 
 ### $\star$ Head-Circular Complete Quadrilaterals
 If $ABCD$ is circular, call this complete quadrilateral *head-circular*.
 
 For head-circular complete quadrilateral $\mathcal Q=ABCDEF$ with $\omega=\odot ABCD$ and $AC\cap BD=P$:
 
+- The pole of $BD$ and the pole of $AC$ w.r.t. $\omega$ both fall on $AC$.
+
 Suppose $O$ is the center of $\omega$.
 - The pole of $P$ w.r.t. $\omega$ is $EF$; the pole of $E$ w.r.t. $\omega$ is $FP$; the pole of $F$ w.r.t. $\omega$ is $EP$.
 - $O$ is the orthocenter of $\triangle EFP$.
 - The projection of $O$ on $EF$ is the Miquel point $K$ of $\mathcal Q$.
-- $AOCK$ is circular; $BODK$ is circular.
+- $\star$ $AOCK$ is circular; $BODK$ is circular.
 
 Suppose $M$ is the midpoint of $AC$, $N$ is the midpoint of $BD$ and $L$ is the midpoint of $EF$. Then
 - $\displaystyle{\frac{BD}{AC}=\frac{LE}{LM}=\frac{LN}{LE}}$
@@ -56,4 +58,4 @@ If $\triangle AEC$ and $\triangle AFB$ has an common incircle, we say this circl
 
 If $\triangle AEC$ and $\triangle AFB$ has an common $A$-excircle, we say this circle is an *excircle* of $\mathcal Q$.
 
-- $\mathcal Q$ has an excircle $\iff AB+BC=CD+DA\iff AE+EC=AF+FC\iff BE+ED=BF+FD$.
+- $\star$ $\mathcal Q$ has an excircle $\iff AB+BC=CD+DA\iff AE+EC=AF+FC\iff BE+ED=BF+FD$.
