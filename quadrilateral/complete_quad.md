@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-11T09:10:46.625Z
+date: 2022-06-12T01:22:45.602Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -23,9 +23,12 @@ Let $\mathcal Q=ABCDEF$ be a complete quadrilateral such that $E=AB\cap CD$, $F=
 ### Foot-Circular Complete Quadrilaterals
 If $BEFD$ is circular, call this complete quadrilateral *foot-circular*.
 
-For foot-circular complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$:
+For foot-circular complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$, $O$ the center of $\Omega$ and $K$ the Miquel point of $\mathcal Q$:
 
 - The pole of $BD$ w.r.t. $\Omega$ and the pole of $EF$ w.r.t. $\Omega$ both fall on $AC$.
+- $BDOK$ is circular.
+- $KC$ bisects $\angle BKD$ and $\angle EKF$.
+- $A$, $C$, $K$ are collinear; $\angle OKD=90^\circ$.
 
 ### $\star$ Head-Circular Complete Quadrilaterals
 If $ABCD$ is circular, call this complete quadrilateral *head-circular*.
