@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-12T03:01:19.500Z
+date: 2022-06-12T03:02:08.513Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -21,7 +21,7 @@ Let $\mathcal Q=ABCDEF$ be a complete quadrilateral such that $E=AB\cap CD$, $F=
 ## Special Properties
 
 ### Foot-Concyclic Complete Quadrilaterals
-If $BEFD$ is concyclic, call this complete quadrilateral *foot-circular*.
+If $BEFD$ is concyclic, call this complete quadrilateral *foot-concyclic*.
 
 For foot-concyclic complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$, $O$ the center of $\Omega$ and $K$ the Miquel point of $\mathcal Q$:
 
@@ -31,7 +31,7 @@ For foot-concyclic complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$, $O$
 - $\star$ $A$, $C$, $K$ are collinear; $\angle OKC=90^\circ$.
 
 ### $\star$ Head-Concyclic Complete Quadrilaterals
-If $ABCD$ is concyclic, call this complete quadrilateral *head-circular*.
+If $ABCD$ is concyclic, call this complete quadrilateral *head-concyclic*.
 
 For head-concyclic complete quadrilateral $\mathcal Q=ABCDEF$ with $\omega=\odot ABCD$ and $AC\cap BD=P$:
 
