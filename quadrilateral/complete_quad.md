@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-12T03:02:08.513Z
+date: 2022-06-12T06:21:05.969Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
@@ -29,6 +29,7 @@ For foot-concyclic complete quadrilateral $ABCDEF$ with $\Omega=\odot BEFD$, $O$
 - $\star$ $BDOK$ is concyclic.
 - $KC$ bisects $\angle BKD$ and $\angle EKF$.
 - $\star$ $A$, $C$, $K$ are collinear; $\angle OKC=90^\circ$.
+- $AC^2=AB\cdot AE+AD\cdot AF$.
 
 ### $\star$ Head-Concyclic Complete Quadrilaterals
 If $ABCD$ is concyclic, call this complete quadrilateral *head-concyclic*.
