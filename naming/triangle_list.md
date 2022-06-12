@@ -2,7 +2,7 @@
 title: Triangle Name List
 description: A list of basic names of points and lines.
 published: true
-date: 2022-06-11T05:01:51.315Z
+date: 2022-06-12T01:23:30.418Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-09T12:18:52.523Z
@@ -14,7 +14,7 @@ In triangle $ABC$:
 ## Points (Alphabetical Order)
 - $A'_A$ the point on $\odot O$ such that $AA'_A\parallel BC$.
 - $D_A$ the point of tangent of $\odot I$ on $BC$.
-- $E_A$ the intersection of the angular bisector of $\angle A$ and $BC$.
+- $E_A$ the intersection of the angle bisector of $\angle A$ and $BC$.
 - $F_A$ the point of tangent of $\odot I_A$ on $BC$.
 - $G$ the center of gravity.
 - $\mathrm{Ge}$ the Gergonne point.
@@ -38,7 +38,7 @@ In triangle $ABC$:
 
 ## Lines (Alphabetical Order)
 - $c_A=D_BD_C$
-- $d_A$ the angular bisector of $\angle A$.
+- $d_A$ the angle bisector of $\angle A$.
 - $e_A=E_BE_C$
 - $\mathfrak{Eu}$ the Euler line.
 - $g_A$ the median $M_BM_C$.
