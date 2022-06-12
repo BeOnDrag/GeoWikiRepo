@@ -2,7 +2,7 @@
 title: Properties of Complete Quadrilaterals
 description: 
 published: true
-date: 2022-06-12T06:21:05.969Z
+date: 2022-06-12T06:21:11.088Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T02:07:16.794Z
